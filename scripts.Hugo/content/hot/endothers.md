@@ -17,7 +17,7 @@ categories:
 {{< mydiv4o link="https://hk2001.chinadsf.org/"   text="hk2001   2020年1月的新聞">}}
 {{< mydiv4o link="https://hk2002.chinadsf.org/"   text="hk2002   2020年2月的新聞">}}
 
-{{< mybrline1 color="blue" >}}
+{{< mybrline1 >}}
 
 {{< mydiv4o link="https://hk2003.chinadsf.org/"   text="hk2003   2020年3月的新聞">}}
 {{< mydiv4o link="https://hk2003a.chinadsf.org/"  text="hk2003a  2020年3月的新聞a">}}
@@ -43,8 +43,7 @@ categories:
 {{< mydiv4o link="https://hk2012.chinadsf.org/"   text="hk2012   2020年12月的新聞">}}
 {{< mydiv4o link="https://hk2101.chinadsf.org/"   text="hk2101   2021年1月的新聞">}}
 
-#
-#
+{{< mybrline1 >}}
 
 {{< my2buttoncopy2clip "music.xspf"        "blue"   "red"    " 单曲"  "复制 VLC 播放器使用的链接：单曲" >}} {{< my2buttoncopy2clip      "/all.m3u8"         "green"  "black"  " M2 "    "复制 IPTV 播放器使用的链接：全部" >}} 
 
