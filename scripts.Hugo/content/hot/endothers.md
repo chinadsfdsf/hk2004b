@@ -17,23 +17,21 @@ categories:
 {{< mydiv4o link="https://hk2001.chinadsf.org/"   text="hk2001   2020年1月的新聞">}}
 {{< mydiv4o link="https://hk2002.chinadsf.org/"   text="hk2002   2020年2月的新聞">}}
 
-#
-#
+{{< mybrline1 color="blue" >}}
 
 {{< mydiv4o link="https://hk2003.chinadsf.org/"   text="hk2003   2020年3月的新聞">}}
 {{< mydiv4o link="https://hk2003a.chinadsf.org/"  text="hk2003a  2020年3月的新聞a">}}
 {{< mydiv4o link="https://hk2003b.chinadsf.org/"  text="hk2003b  2020年3月的新聞b">}}
 
-#
-#
+{{< mybrline1 color="blue" >}}
 
 {{< mydiv4o link="https://hk2004.chinadsf.org/"   text="hk2004   2020年4月的新聞 ">}}
 {{< mydiv4o link="https://hk2004a.chinadsf.org/"  text="hk2004a  2020年4月的新聞a">}}
 {{< mydiv4o link="https://hk2004b.chinadsf.org/"  text="hk2004b  2020年4月的新聞b <<<=== <<<===">}}
 {{< mydiv4o link="https://hk2004c.chinadsf.org/"  text="hk2004c  2020年4月的新聞c">}}
 {{< mydiv4o link="https://hk2004d.chinadsf.org/"  text="hk2004d  2020年4月的新聞d">}}
-#
-#
+
+{{< mybrline1 color="blue" >}}
 
 {{< mydiv4o link="https://hk2005.chinadsf.org/"   text="hk2005   2020年5月的新聞">}}
 {{< mydiv4o link="https://hk2006.chinadsf.org/"   text="hk2006   2020年6月的新聞">}}
