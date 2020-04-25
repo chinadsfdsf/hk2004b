@@ -30,6 +30,7 @@ categories:
 {{< mydiv4o link="https://hk2004b.chinadsf.org/"  text="hk2004b  2020年4月的新聞b <<<=== <<<==="  bg="lightcoral" >}}
 {{< mydiv4o link="https://hk2004c.chinadsf.org/"  text="hk2004c  2020年4月的新聞c">}}
 {{< mydiv4o link="https://hk2004d.chinadsf.org/"  text="hk2004d  2020年4月的新聞d">}}
+{{< mydiv4o link="https://hk2004e.chinadsf.org/"  text="hk2004e  2020年4月的新聞e">}}
 
 {{< mybrline1 color="blue" >}}
 
